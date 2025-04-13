@@ -27,6 +27,9 @@
  3. 안드로이드 스튜디오
 - 협업 툴: GitHub, Figma, 카카오톡, Notion
 
+## State Transition Diagram
+![image](https://github.com/user-attachments/assets/9b461f12-7e70-4631-b978-40d8f49a9a0e)
+
 ## 결과물 스크린 샷
 ![image](https://github.com/user-attachments/assets/9b4e8f2d-1f63-4c62-9504-333d64432387)
 ![image](https://github.com/user-attachments/assets/25cf5dba-0729-4112-8be3-60ecc048cc18)
